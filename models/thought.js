@@ -59,7 +59,7 @@ const ThoughtSchema = new Schema(
   }
 );
 
-// Get friend count
+// Get reaction count
 ThoughtSchema.virtual("reactionCount").get(function () {
   return this.reactions.length;
 });
