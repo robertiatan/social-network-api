@@ -14,6 +14,7 @@ This API for a social network web application allows users to share their though
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
+- [Contributing](#contributing)
 
 ## Installation
 
@@ -32,3 +33,6 @@ To use this application, run the following command:
 
 This is a link to a walk-through video that demonstrates the functionality of this application:
 https://drive.google.com/file/d/1cMfQda6V6QRtkXGuqw5UlgyaIFTtDdd-/view
+
+## Contributing
+Big thanks to my TA's Jeremy and Serena for help on this assignment!
